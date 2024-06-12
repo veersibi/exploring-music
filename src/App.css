@@ -34,12 +34,12 @@ body {
   font-size: 2em;
   font-weight: bold;
   background: rgba(0, 0, 0, 0.5); /* Adding a semi-transparent background to make the text more readable */
-    font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
-.app-title-context{
+.app-title-context {
   position: absolute;
-  top: 30%; 
+  top: 40%; /* Adjusted top to increase space */
   left: 50%;
   transform: translateX(-50%);
   margin: 0;
@@ -47,7 +47,7 @@ body {
   font-size: 0.7em;
   font-weight: bold;
   background: rgba(0, 0, 0, 0.5); /* Adding a semi-transparent background to make the text more readable */
-    font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .dashboard {
